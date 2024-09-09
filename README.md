@@ -6,7 +6,7 @@
 <h3 align="center">Full Stack Web Developer | Leetcode Noobie</h3>
 <p align="center">
   <em>
-    Im a <b>final year</b> undergraduate from <a href="https://www5.usp.br/"> <b>Universidade de São Paulo (USP)</b></a>. <br>
+    Graduated from <a href="https://www5.usp.br/"> <b>Universidade de São Paulo (USP)</b></a>. <br>
     An always improving <b>Full-Stack Software Developer</b> and constantly trying out new technologies!
   </em> 
   <br>
